@@ -1,13 +1,4 @@
-# Amazon Clone
-
-
-This is a clone of Amazon web application, with improved UI and all major functionalities such as adding products to wishlist, browsing different product categories, adding products to cart, managing shipping details, and payment options. The project is responsive and can be used on any device.
-
-**Demo Video**
-
-
-https://user-images.githubusercontent.com/81776711/224985061-d7012611-8997-4a6b-ba7c-a4fc7f2c9954.mp4
-
+This is a Fullstack application, with improved UI and all major functionalities such as adding products to wishlist, browsing different product categories, adding products to cart, managing shipping details, and payment options. The project is responsive and can be used on any device.
 
 # Technologies Used
 
@@ -108,9 +99,3 @@ The UI of the project is completely inspired and even taken from these, all the 
 [Home Page](https://dribbble.com/shots/15350650-Amazon-Website-Redesign-Concept)
 
 [Profile section](https://dribbble.com/shots/20739514-Ecommerce-Account-Page-Dashboard-UXUI)
-
-
-# Contributing
-
-
-Contributions to this project are always welcome. Please feel free to raise an issue or submit a pull request if you find any bug or have any feature requests.
